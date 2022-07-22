@@ -1,0 +1,12 @@
+.categoryButton {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 1em;
+    
+    font-family: emoji;
+    font-weight: 700;
+  }
+  .categoryButton a {
+    text-decoration: none;
+    color: #998a78;
+  }
